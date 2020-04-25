@@ -1,8 +1,6 @@
 # Java-POO
 Repositório de Estudos sobre Lógica Orientada a Objetos.
-
 Curso: Lógica Orientada a Objetos Completo (Treinaweb)
-
 [Utilizado como base a linguagem Java]
 
 Objetivos
