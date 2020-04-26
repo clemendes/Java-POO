@@ -1,11 +1,11 @@
-# Java-POO
+## Java-POO
 Repository of Studies on Object Oriented Logic.
 
 Course: Complete Object Oriented Logic (Treinaweb)
 
 [Used as the base language Java]
 
-Goals
+### Goals
 - Better understand the advantages and consequences of using the **object-oriented paradigm**;
 - Better understand what **classes, objects, attributes and methods** are;
 - Understand in practice important concepts of object orientation, such as **encapsulation and polymorphism**;
